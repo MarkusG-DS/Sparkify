@@ -6,19 +6,19 @@ The Data for this project (12 GB) is provided by udacity.
 Installations
 This project requires Python 3.x and the following Python libraries installed:
 
-*Pyspark
-*Pandas
-*Numpy
-*Matplotlib
-*Datetime
-*Time
+* Pyspark
+* Pandas
+* Numpy
+* Matplotlib
+* Datetime
+* Time
 
 
 Summary:
 The project contains the following tasks:
 
-*Exploratory Data Analysis
-*Modeling: Predicitng churn for users with Gardient Boosted Tree Classifier
+* Exploratory Data Analysis
+* Modeling: Predicitng churn for users with Gardient Boosted Tree Classifier
 
 Data
 .csv: file contains . .csv: file contains .
