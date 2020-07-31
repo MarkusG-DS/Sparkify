@@ -21,7 +21,7 @@ The project contains the following tasks:
 * Modeling: Predicitng churn for users with Gardient Boosted Tree Classifier
 
 Data
-.csv: file contains . .csv: file contains .
+* Data can be found on Udacity. The size of the used datasets exceeds github limits.
 
 Acknowledgments
 Thanks to Udacity for this amazing project in the DS Nanodegree for providing the datasets.
